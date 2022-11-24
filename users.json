@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "6374c3c349ce9f1900647866"
+  },
+  "isAdmin": true,
+  "name": "amit",
+  "email": "admin@example.com",
+  "password": "1234",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637faacf408b3aca1001c4fc"
+  },
+  "name": "Chauhan Amit ",
+  "email": "amitharidwarchauhan@gmail.com",
+  "password": "$2a$08$O86u1qw4XPW4mqRHV0/4/eHXpcGL6nh28i1A13vkbDvvqOIlPqBg2",
+  "isAdmin": false,
+  "isSeller": false,
+  "seller": {
+    "rating": 0,
+    "numReviews": 0
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311183321"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669311203906"
+    }
+  },
+  "__v": 0
+}]

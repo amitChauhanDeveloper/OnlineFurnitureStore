@@ -1,0 +1,578 @@
+[{
+  "_id": {
+    "$oid": "6374dfd545be481b1006f8b8"
+  },
+  "price": 12816,
+  "countInStock": 6,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "Wood King Bed",
+  "image": "/uploads\\1668603822861.jpg",
+  "brand": "IKEA",
+  "category": "Beds",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 4,
+      "_id": {
+        "$oid": "637f3a8f0a82f3c82e4583c1"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669282447035"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669282447035"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669282447035"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6374e01945be481b1006f8bb"
+  },
+  "price": 6290,
+  "countInStock": 10,
+  "rating": 1,
+  "numReviews": 1,
+  "name": "Metal Double Bed",
+  "image": "/uploads\\1668603900324.jpg",
+  "brand": "IKEA",
+  "category": "Beds",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 1,
+      "_id": {
+        "$oid": "637f378f0a82f3c82e458293"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281679780"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281679780"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281679781"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6374e05a45be481b1006f8bf"
+  },
+  "price": 28380,
+  "countInStock": 6,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "King Box Bed",
+  "image": "/uploads\\1668603960622.jpg",
+  "brand": "IKEA",
+  "category": "Beds",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f377c0a82f3c82e458287"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281660122"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281660122"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281660123"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6374e09045be481b1006f8c3"
+  },
+  "price": 20249,
+  "countInStock": 6,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "Drawer Storage For Bedroom",
+  "image": "/uploads\\1668604021910.jpg",
+  "brand": "IKEA",
+  "category": "Beds",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Amit",
+      "comment": "Very Nice Product",
+      "rating": 4,
+      "_id": {
+        "$oid": "6374e764072df5bf4021b8e6"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1668605796637"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1668605796637"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1668605796638"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f277045e39f33a03c24f0"
+  },
+  "price": 9999,
+  "countInStock": 15,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "3 Seater Sofa",
+  "image": "/uploads\\1669277517753.jpg",
+  "brand": "IKEA",
+  "category": "Sofa",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f383f0a82f3c82e458318"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281855272"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281855272"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281855272"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f297445e39f33a03c2504"
+  },
+  "price": 7999,
+  "countInStock": 10,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "2 Seater Sofa",
+  "image": "/uploads\\1669278026429.jpg",
+  "brand": "IKEA",
+  "category": "Sofa",
+  "description": "high quality products",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 4,
+      "_id": {
+        "$oid": "637f38310a82f3c82e45830c"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281841680"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281841680"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281841680"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2a0b45e39f33a03c250e"
+  },
+  "price": 24649,
+  "countInStock": 7,
+  "rating": 3,
+  "numReviews": 1,
+  "name": "5 Seater Sofa",
+  "image": "/uploads\\1669278197874.jpg",
+  "brand": "IKEA",
+  "category": "Sofa",
+  "description": "high quality products",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 3,
+      "_id": {
+        "$oid": "637f381e0a82f3c82e458301"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281822754"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281822754"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281822754"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2a9145e39f33a03c2519"
+  },
+  "price": 52999,
+  "countInStock": 20,
+  "rating": 3,
+  "numReviews": 1,
+  "name": "6 Seater Dining Table",
+  "image": "/uploads\\1669278331407.jpg",
+  "brand": "IKEA",
+  "category": "Dinner Table",
+  "description": "high quality product",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 3,
+      "_id": {
+        "$oid": "637f380d0a82f3c82e4582f1"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281805236"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281805236"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281805236"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2be845e39f33a03c2521"
+  },
+  "price": 50998,
+  "countInStock": 5,
+  "rating": 4,
+  "numReviews": 1,
+  "name": "4 Seater Dining Table",
+  "image": "/uploads\\1669278694171.jpg",
+  "brand": "IKEA",
+  "category": "Dinner Table",
+  "description": "Advika Handicraft Sheesham Wood Antique Design Tile Work 4 Seater Dining Table with 4 Chair Solid Wood 4 Seater Dining Table  (Finish Color - Walnut, DIY(Do-It-Yourself))",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 4,
+      "_id": {
+        "$oid": "637f37fa0a82f3c82e4582e5"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281786005"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281786005"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281786005"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2db43992fe301cffe9a6"
+  },
+  "price": 69796,
+  "countInStock": 4,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "6 Seater Dining Tables",
+  "image": "/uploads\\1669279142999.jpg",
+  "brand": "IKEA",
+  "category": "Dinner Table",
+  "description": "Home Centre Glass 6 Seater Dining Table  (Finish Color - Grey, Pre-assembled)",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f37e80a82f3c82e4582d4"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281768886"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281768886"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281768887"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2e533992fe301cffe9ad"
+  },
+  "price": 8250,
+  "countInStock": 10,
+  "rating": 5,
+  "numReviews": 1,
+  "name": "Luxury Chair",
+  "image": "/uploads\\1669279313278.jpg",
+  "brand": "IKEA",
+  "category": "Chair",
+  "description": "Oakcraft Luxury HIGH Back Leatherette Office with Steel Base and Warranty Leatherette Office Executive Chair  (White, Pre-assembled)",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f37cd0a82f3c82e4582c4"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281741864"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281741864"
+        }
+      }
+    }
+  ],
+  "__v": 1,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281741864"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2eb93992fe301cffe9b6"
+  },
+  "price": 3850,
+  "countInStock": 15,
+  "rating": 4.5,
+  "numReviews": 2,
+  "name": "Office Chair",
+  "image": "/uploads\\1669279403805.jpg",
+  "brand": "IKEA",
+  "category": "Chair",
+  "description": "Flipkart Perfect Homes Bonzai Low Back Office Chair Fabric Office Arm Chair  (Black, Green, DIY(Do-It-Yourself))",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f37bc0a82f3c82e4582b7"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281724330"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281724330"
+        }
+      }
+    },
+    {
+      "rating": 4,
+      "_id": {
+        "$oid": "637f517f61fd14110870420e"
+      },
+      "name": "amit",
+      "comment": "good product",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669288319647"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669288319647"
+        }
+      }
+    }
+  ],
+  "__v": 2,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281724331"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f2f1d3992fe301cffe9ba"
+  },
+  "price": 2198,
+  "countInStock": 50,
+  "rating": 4.5,
+  "numReviews": 2,
+  "name": "Living Room Chair",
+  "image": "/uploads\\1669279506272.jpg",
+  "brand": "IKEA",
+  "category": "Chair",
+  "description": "cauvery Metal Living Room Chair  (Finish Color - Red, Pre-assembled)",
+  "reviews": [
+    {
+      "name": "Harsh",
+      "comment": "good product",
+      "rating": 5,
+      "_id": {
+        "$oid": "637f37ae0a82f3c82e4582ab"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669281710595"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669281710595"
+        }
+      }
+    },
+    {
+      "rating": 4,
+      "_id": {
+        "$oid": "637f5eefcb6f55289045ec8e"
+      },
+      "name": "raj",
+      "comment": "good product",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669291759421"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669291759421"
+        }
+      }
+    }
+  ],
+  "__v": 2,
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669281710595"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "637f82f2d2e35024c83a0cda"
+  },
+  "price": 2500,
+  "countInStock": 20,
+  "rating": 3,
+  "numReviews": 1,
+  "name": "White Dinner Table 4 Seater",
+  "image": "/uploads\\1669300952724.jpg",
+  "brand": "IKEA",
+  "category": "Dinner Table",
+  "description": "EuroQon Smart Foldable Imported Wood Engineered Wood 4 Seater Dining Table  (Finish Color - White Beige, Pre-assembled)",
+  "reviews": [
+    {
+      "rating": 3,
+      "_id": {
+        "$oid": "637f91319aeb3c28c07c0fcf"
+      },
+      "name": "raj",
+      "comment": "nice product",
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1669304625083"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1669304625083"
+        }
+      }
+    }
+  ],
+  "__v": 1
+}]

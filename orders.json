@@ -1,0 +1,235 @@
+[{
+  "_id": {
+    "$oid": "637f5ffbcb6f55289045ec97"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "637f5ffbcb6f55289045ec98"
+      },
+      "product": {
+        "$oid": "637f2f1d3992fe301cffe9ba"
+      },
+      "name": "Living Room Chair",
+      "image": "/uploads\\1669279506272.jpg",
+      "price": "2198",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "637f5ea2cb6f55289045ec85"
+  },
+  "shipping": {
+    "address": "61,Banasnagar Society, Railway East Kalol",
+    "city": "gan",
+    "postalCode": "382722",
+    "country": "India"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 2198,
+  "taxPrice": 329.7,
+  "shippingPrice": 0,
+  "totalPrice": 2527.7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669292027859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669292027859"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f9797ef62b517706a8a7a"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "637f9797ef62b517706a8a7b"
+      },
+      "product": {
+        "$oid": "637f2be845e39f33a03c2521"
+      },
+      "name": "4 Seater Dining Table",
+      "image": "/uploads\\1669278694171.jpg",
+      "price": "50998",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "637f9758ef62b517706a8a73"
+  },
+  "shipping": {
+    "address": "61,Banasnagar Society, Railway East Kalol",
+    "city": "Kalol",
+    "postalCode": "382721",
+    "country": "India"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 50998,
+  "taxPrice": 7649.7,
+  "shippingPrice": 0,
+  "totalPrice": 58647.7,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669306263832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669306263832"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f9a66ef62b517706a8aa4"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "637f9a66ef62b517706a8aa5"
+      },
+      "product": {
+        "$oid": "6374e05a45be481b1006f8bf"
+      },
+      "name": "King Box Bed",
+      "image": "/uploads\\1668603960622.jpg",
+      "price": "28380",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "637f9758ef62b517706a8a73"
+  },
+  "shipping": {
+    "address": "61,Banasnagar Society, Railway East Kalol",
+    "city": "Kalol",
+    "postalCode": "382721",
+    "country": "India"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 28380,
+  "taxPrice": 4257,
+  "shippingPrice": 0,
+  "totalPrice": 32637,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669306982495"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669306982495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637f9d257bbbc62fd4631b23"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "637f9d257bbbc62fd4631b24"
+      },
+      "product": {
+        "$oid": "637f82f2d2e35024c83a0cda"
+      },
+      "name": "White Dinner Table 4 Seater",
+      "image": "/uploads\\1669300952724.jpg",
+      "price": "2500",
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "637f9758ef62b517706a8a73"
+  },
+  "shipping": {
+    "address": "61,Banasnagar Society, Railway East Kalol",
+    "city": "Kalol",
+    "postalCode": "382721",
+    "country": "India"
+  },
+  "payment": {
+    "paymentMethod": "paypal"
+  },
+  "itemsPrice": 2500,
+  "taxPrice": 375,
+  "shippingPrice": 0,
+  "totalPrice": 2875,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669307685576"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669307685576"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637fab83408b3aca1001c522"
+  },
+  "orderItems": [
+    {
+      "name": "Living Room Chair",
+      "qty": 2,
+      "image": "/uploads\\1669279506272.jpg",
+      "price": 2198,
+      "product": {
+        "$oid": "637f2f1d3992fe301cffe9ba"
+      },
+      "_id": {
+        "$oid": "637fab83408b3aca1001c523"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Chauhan Amit Haridwar",
+    "address": "61,Banasnagar Society, Railway East Kalol",
+    "city": "Kalol",
+    "postalCode": "382721",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 4396,
+  "shippingPrice": 0,
+  "taxPrice": 659.4,
+  "totalPrice": 5055.4,
+  "user": {
+    "$oid": "637faacf408b3aca1001c4fc"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1669311363566"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1669311363566"
+    }
+  },
+  "__v": 0
+}]
